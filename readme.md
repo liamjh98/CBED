@@ -8,4 +8,4 @@ Foil thickness is measured using the TEM convergent beam electron diffraction (C
 4) Set `n = 1` to start and then iterate to generate straight line.
 5) Calculate thickness / plot the data.
 
-[CBED_Thickness.pdf](https://github.com/liamjh98/CBED/files/11413494/CBED_Thickness.pdf)
+![CBED_Thickness](https://user-images.githubusercontent.com/72528278/236649156-11e7ce0d-a45e-4cf5-95a2-3583cbfa3356.png)
